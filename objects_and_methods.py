@@ -25,3 +25,4 @@ my_integer.denominator #White wrenches are properties of the object
 my_integer.numerator #Returns 10, the numerator of the integer
 #Properties are only meant to be read. They dont do anything. They just exist
 #If something does not require a calculation to be given, it is a property. Look at the icon to check
+
