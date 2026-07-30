@@ -244,3 +244,5 @@ my_friends_info["Nick"]["hobbies"].append('sourdough baking') #Works!
 print(my_friends_info)
 #what about adding two hobbies at once?
 my_friends_info["Nick"]["hobbies"].append('sourdough baking').ap
+git add .
+
